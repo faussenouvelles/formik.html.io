@@ -3,6 +3,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
+    <script src="https://github.com/faussenouvelles/formik.js.io/blob/main/ella.formik.form.js"></script>
   <head>
     <meta charset="utf-8" />
     <meta
@@ -12,7 +13,6 @@
     <title>React App</title>
   </head>
   <body>
-    <script src="https://github.com/faussenouvelles/formik.js.io/blob/main/ella.formik.form.js"></script>
     <div id="root"></div>
     <!--
       This HTML file is a template.
